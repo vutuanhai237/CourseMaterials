@@ -1,14 +1,16 @@
-# Quantum Computing Courses
+# Course materials
 
-## Slides
+Students who are in my class can be get slides in here!
 
-1. Qubit
+In semester 2 / 2018 - 2019:
+- DS&Algo
 
-![](https://myentangled.com/uploads/Fundamentals%20of%20Qubits/HelplessHighlevelEelelephant-size_restricted.gif)
+In semester 2 / 2019 - 2020:
+- OOP
 
-2. Quantum gate
-3. ...
+In semester 1 / 2021 - 2022:
+- BOQC
+- DB
+- SE
 
-![](https://raw.githubusercontent.com/cduck/bloch_sphere/master/examples/zz_gate.gif)
-
-## Code
+Give me a star if you feel good when using it :)
