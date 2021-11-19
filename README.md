@@ -1,6 +1,6 @@
 # Course materials
 
-Students who are in my class can be get slides in here!
+Students who are in my class get slides in here!
 
 In semester 2 / 2018 - 2019:
 - DS&Algo
