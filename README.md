@@ -5,14 +5,18 @@
 Students who are in my class can get slides here!
 
 ### In semester 2 / 2018 - 2019:
-- DS&Algo
+- [x] DS&Algo
 
 ### In semester 2 / 2019 - 2020:
-- OOP
+- [x] OOP
 
 ### In semester 1 / 2021 - 2022:
-- BOQC
-- DB
-- SE
+- [x] BOQC
+- [x] DB
+- [x] SE
+
+### In semester 2 / 2021 - 2022:
+
+What courses are waiting me?
 
 Give me a star if you feel good when using it :)
