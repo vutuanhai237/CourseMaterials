@@ -17,6 +17,7 @@ Students who are in my class can get slides here!
 
 ### In semester 2 / 2021 - 2022:
 
-What courses are waiting me?
-
+- [ ] OOP
+- [ ] PP
+- [ ] Web2
 Give me a star if you feel good when using it :)
