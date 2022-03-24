@@ -4,12 +4,13 @@ from selenium import webdriver
 import chromedriver_binary  # Adds chromedriver binary to path
 from selenium.webdriver.common.by import By
 
-class_name = 'it002k26'
-contest_name = 'bai-tap-thuc-hanh-tuan-5-it002-k26'
-lab = 5
+class_name = 'it002m22pmcl'
+sub_class = 'it002m22pmcl1'
+contest_name = 'bai-tap-thuc-hanh-lab-1-it002-m22-pmcl-1'
+lab = 1
 
 def read_score_sheet():
-    sheet = pd.read_excel('../' + class_name + '/' + class_name + '.xlsx')
+    sheet = pd.read_excel('../' + class_name + '/' + sub_class + '.xlsx')
     return sheet
 
 def crawl_score():
@@ -33,12 +34,13 @@ def crawl_score():
             id = (item_collection[1])[-8:]
             if id.isdigit():
                 id = int(id)
+                print(item_collection[2])
                 score = float(item_collection[2])
                 time = item_collection[3]
                 index = (df.index[df['ID'] == id].tolist())
                 df.loc[index, lab] = score
 
     driver.quit()
-    df.to_excel('../' + class_name + '/' + class_name + '.xlsx', index=False)
+    df.to_excel('../' + class_name + '/' + sub_class + '.xlsx', index=False)
 
 crawl_score()
