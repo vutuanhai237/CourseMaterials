@@ -5,9 +5,10 @@ import chromedriver_binary  # Adds chromedriver binary to path
 from selenium.webdriver.common.by import By
 
 class_name = 'it002m22pmcl'
-sub_class = 'it002m22pmcl1'
-contest_name = 'bai-tap-thuc-hanh-lab-1-it002-m22-pmcl-1'
+sub_class = class_name + '2'
 lab = 1
+contest_name = 'bai-tap-thuc-hanh-lab-' + str(lab) + '-it002-m22-pmcl-2'
+
 
 def read_score_sheet():
     sheet = pd.read_excel('../' + class_name + '/' + sub_class + '.xlsx')
@@ -34,6 +35,7 @@ def crawl_score():
             id = (item_collection[1])[-8:]
             if id.isdigit():
                 id = int(id)
+                print(id)
                 print(item_collection[2])
                 score = float(item_collection[2])
                 time = item_collection[3]
