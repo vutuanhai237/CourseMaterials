@@ -4,10 +4,10 @@ from selenium import webdriver
 import chromedriver_binary  # Adds chromedriver binary to path
 from selenium.webdriver.common.by import By
 
-class_name = 'it002m22pmcl'
+class_name = 'it002m22htcl'
 sub_class = class_name + '2'
-lab = 1
-contest_name = 'bai-tap-thuc-hanh-lab-' + str(lab) + '-it002-m22-pmcl-2'
+lab = 3
+contest_name = 'bai-tap-thuc-hanh-lab-' + str(lab) + '-it002-m22-htcl-2'
 
 
 def read_score_sheet():
