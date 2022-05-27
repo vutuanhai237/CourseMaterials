@@ -4,10 +4,10 @@ from selenium import webdriver
 import chromedriver_binary  # Adds chromedriver binary to path
 from selenium.webdriver.common.by import By
 
-class_name = 'it002m21mmcl'
-sub_class = class_name + '2'
-lab = 3
-contest_name = 'bai-tap-thuc-hanh-lab-' + str(lab) + '-it002-m21-mmcl-2'
+class_name = 'it002m22pmcl'
+sub_class = class_name + '1'
+lab = 4
+contest_name = 'bai-tap-thuc-hanh-lab-' + str(lab) + '-it002-m22-pmcl-1'
 
 
 def read_score_sheet():
@@ -36,7 +36,7 @@ def crawl_score():
             if id.isdigit():
                 id = int(id)
                 print(id)
-                print(item_collection[2])
+                print(item_collection)
                 score = float(item_collection[2])
                 time = item_collection[3]
                 index = (df.index[df['ID'] == id].tolist())
