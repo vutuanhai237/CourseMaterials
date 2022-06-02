@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 
 class_name = 'it002m22pmcl'
 sub_class = class_name + '1'
-lab = 4
+lab = 5
 contest_name = 'bai-tap-thuc-hanh-lab-' + str(lab) + '-it002-m22-pmcl-1'
 
 
