@@ -1,11 +1,11 @@
 # Course materials
 
-<img src="https://cdna.artstation.com/p/assets/images/images/024/132/004/original/christine-le-blond-catanimnosig.gif?1581424415" width = 500px/>
+<img src="https://cdna.artstation.com/p/assets/images/images/024/132/004/original/christine-le-blond-catanimnosig.gif?1581424415" width = "50%"/>
 
 Students who are in my class can get slides here!
 
 ### In semester 2 / 2018 - 2019:
-- [x] DS&Algo
+- [x] DSA
 
 ### In semester 2 / 2019 - 2020:
 - [x] OOP
@@ -17,11 +17,12 @@ Students who are in my class can get slides here!
 
 ### In semester 2 / 2021 - 2022:
 
+- [x] OOP
+- [x] PP
+- [x] Web3
+
+### In semester 3 / 2021 - 2022:
+
 - [ ] OOP
-- [ ] PP
-- [ ] Web2
-
-
-
 
 Give me a star if you feel good when using it :)
