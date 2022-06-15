@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\BT5\BT5.1\bin\Debug\BT5.1.exe
+C:\Users\Admin\source\repos\BT5\BT5.1\bin\Debug\BT5.1.pdb
+C:\Users\Admin\source\repos\BT5\BT5.1\obj\Debug\BT5.1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BT5\BT5.1\obj\Debug\BT5._1.Form1.resources
+C:\Users\Admin\source\repos\BT5\BT5.1\obj\Debug\BT5._1.Properties.Resources.resources
+C:\Users\Admin\source\repos\BT5\BT5.1\obj\Debug\BT5.1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BT5\BT5.1\obj\Debug\BT5.1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BT5\BT5.1\obj\Debug\BT5.1.exe
+C:\Users\Admin\source\repos\BT5\BT5.1\obj\Debug\BT5.1.pdb

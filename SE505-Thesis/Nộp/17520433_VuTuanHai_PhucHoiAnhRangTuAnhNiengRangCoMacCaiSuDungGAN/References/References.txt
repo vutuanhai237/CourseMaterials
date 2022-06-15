@@ -1,0 +1,38 @@
+Bài báo khoa học:
+
+[1] C. Barnes, E. Shechtman, A. Finkelstein, and D. B. Goldman. Patchmatch: A randomized correspondence algorithm for structural image editing. ACM Transactions on Graphics (TOG) (Proceedings of SIGGRAPH 2009), 2009.
+[2] Alexei A Efros and William T Freeman. Image quilting for texture synthesis and transfer. In Proceedings of the 28th annual conference on Computer graphics and interactive techniques, pages 341–346. ACM, 2001.
+[3] Alexei A Efros and Thomas K Leung. Texture synthesis by non-parametric sampling. In Computer Vision, 1999. The Proceedings of the Seventh IEEE International Conference on, volume 2, pages 1033–1038. IEEE, 1999.
+[4] Jiahui Yu, Zhe Lin, Jimei Yang, Xiaohui Shen, Xin Lu, and Thomas S Huang. Generative image inpainting with contextual attention. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 5505– 5514, 2018.
+[5] Satoshi Iizuka, Edgar Simo-Serra, and Hiroshi Ishikawa. Globally and locally consistent image completion. ACM Transactions on Graphics (TOG), 36(4):107, 2017.
+[6] Chao Yang, Yuhang Song, Xiaofeng Liu, Qingming Tang, and C-C Jay Kuo. Image inpainting using block-wise procedural training with annealed adversarial counterpart. arXiv preprint arXiv:1803.08943, 2018.
+[7] I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, and Y. Bengio. Generative adversarial nets. In NIPS, 2014.
+[8] J. Zhao, M. Mathieu, and Y. LeCun. Energy-based generative adversarial network. In ICLR, 2017.
+[9] S. Reed, Z. Akata, X. Yan, L. Logeswaran, B. Schiele, and H. Lee. Generative adversarial text to image synthesis. In ICML, 2016.
+[10] D. Pathak, P. Krahenbuhl, J. Donahue, T. Darrell, and A. A. Efros. Context encoders: Feature learning by Inpainting. CVPR, 2016
+[11] S. Vicente, V. Kolmogorov and C/ Rother.. Graph cut based image segmentation with connectivity priors. In IEEE conference on computer vision and pattern recognition (pp. 1-8). IEEE, 2008.
+[12] I. Gulrajani, F. Ahmed, M. Arjovsky, V. Dumoulin, and A. Courville. Improved training of wasserstein gans. arXiv preprint arXiv:1704.00028, 2017.
+[13] M. Arjovsky, S. Chintala, and L. Bottou. Wasserstein gan. arXiv preprint arXiv:1701.07875, 2017.
+[14] Zhu, Jun-Yan, et al. Unpaired image-to-image translation using cycle-consistent adversarial networks. Proceedings of the IEEE international conference on computer vision. 2017.
+[15] Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
+[16] Mirza, M., & Osindero, S. (2014). Conditional generative adversarial nets. arXiv preprint arXiv:1411.1784.
+[17] Li, Zhengqin, and Jiansheng Chen. "Superpixel segmentation using linear spectral clustering." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.
+[18] Van den Bergh, Michael, et al. "Seeds: Superpixels extracted via energy-driven sampling." European conference on computer vision. Springer, Berlin, Heidelberg, 2012.
+[19] Achanta, Radhakrishna, et al. "SLIC superpixels compared to state-of-the-art superpixel methods." IEEE transactions on pattern analysis and machine intelligence 34.11 (2012): 2274-2282.
+[20] NAIK, D., et al. Fast interactive superpixel based image region generation. 2019.
+[21] Liu, Ming-Yu, and Oncel Tuzel. "Coupled generative adversarial networks." Advances in neural information processing systems. 2016.
+[22] Shrivastava, Ashish, et al. "Learning from simulated and unsupervised images through adversarial training." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
+[23] Liu, M. Y., Breuel, T., & Kautz, J. (2017). Unsupervised image-to-image translation networks. Advances in neural information processing systems, 30, 700-708. 
+[24] Mejjati, Y. A., Richardt, C., Tompkin, J., Cosker, D., & Kim, K. I. (2018). Unsupervised attention-guided image-to-image translation. In Advances in Neural Information Processing Systems (pp. 3693-3703).
+[25] Din, N. U., Javed, K., Bae, S., & Yi, J. (2020). A novel GAN-based network for unmasking of masked face. IEEE Access, 8, 44276-44287.
+[26] Dumoulin, Vincent, et al. "Adversarially learned inference." arXiv preprint arXiv:1606.00704 (2016).
+
+Mã nguồn mở:
+
+[27] https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+[28] https://github.com/JiahuiYu/generative_inpainting
+
+Tài liệu khác:
+
+[29] https://machinelearningcoban.com/
+[30] https://nttuan8.com/

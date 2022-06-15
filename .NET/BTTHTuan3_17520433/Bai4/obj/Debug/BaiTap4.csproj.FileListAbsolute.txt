@@ -1,0 +1,15 @@
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\bin\Debug\BaiTap4.exe.config
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\bin\Debug\BaiTap4.exe
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\bin\Debug\BaiTap4.pdb
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\obj\Debug\BaiTap4.Form1.resources
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\obj\Debug\BaiTap4.Properties.Resources.resources
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\obj\Debug\BaiTap4.csproj.GenerateResource.cache
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\obj\Debug\BaiTap4.exe
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\obj\Debug\BaiTap4.pdb
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\bin\Debug\EntityFramework.dll
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\bin\Debug\EntityFramework.SqlServer.dll
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\bin\Debug\EntityFramework.xml
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\bin\Debug\EntityFramework.SqlServer.xml
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\obj\Debug\BaiTap4.csproj.CopyComplete
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\obj\Debug\BaiTap4.Migrations.initial.resources
+D:\UniFile\Semester VI\DotNet\BaiTap4\BaiTap4\BaiTap4\obj\Debug\BaiTap4.csprojAssemblyReference.cache

@@ -1,0 +1,3 @@
+https://github.com/LichND/NMCNPM-MVVM
+Tài khoản kiểm thử: admin
+Mật khẩu kiểm thử: admin

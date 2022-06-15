@@ -1,0 +1,2 @@
+Model inpainting: https://github.com/vutuanhai237/generative_inpainting
+Model GraphCut: https://github.com/vutuanhai237/AutoAligmentLeaf

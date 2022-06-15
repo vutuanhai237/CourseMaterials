@@ -1,0 +1,7 @@
+Mã nguồn:
+− Client (ReactJS): https://github.com/vutuanhai237/Braces2TeethClient
+− Server (Flask) & Model (Pytorch):
+https://github.com/vutuanhai237/Braces2TeethServer.
+− Utility (Python): https://github.com/vutuanhai237/Braces2TeethUtilities
+− Dataset: https://github.com/vutuanhai237/Braces2TeethDataset
+− AMT Score: https://github.com/vutuanhai237/AMTScoreForBraces2Teeth

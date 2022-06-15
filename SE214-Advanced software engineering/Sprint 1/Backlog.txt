@@ -1,0 +1,61 @@
+Tôi muốn một màn hình Chi tiết ĐVT gồm các trường thông tin: Mã ĐVT , tên ĐVT, mô tả
+Tôi muốn chỉnh sửa thông tin trực tiếp trong màn hình Chi tiết ĐVT và lưu lại.
+Tôi muốn xoá được ĐVT trong màn hình Chi tiết ĐVT.
+Tôi muốn một màn hình Thêm ĐVT với các thông tin: Mã ĐVT được tạo tự động, tên ĐVT, mô tả.
+
+
+Màn hình: danh sách đơn vị tinh (Mã ĐVT , tên ĐVT, mô tả)
+Màn hình thêm / sửa đơn vị tính (Mã ĐVT (tự gen) , tên ĐVT, mô tả)
+Button xóa mỗi item
+
+CSDL DONVITINH
+- id: varchar(20)
+- MA_DVT: varchar(100)
+- TEN_DVT: nvarchar(100)
+- MOTA_DVT: nvarchar(100)
+
+API
+
+GET
+/donvitinh/
+[
+	{
+		id: string
+		ma_dvt: string
+		ten_dvt: string
+		mota_dvt: string
+	},
+	{
+		id: string
+		ma_dvt: string
+		ten_dvt: string
+		mota_dvt: string
+	}
+	...
+]
+
+
+POST 
+{	
+	ma_dvt: string
+	ten_dvt: string
+	mota_dvt: string
+}
+(request body)
+
+/donvitinh/:ma_dvt
+PUT  
+{
+	ten_dvt: string
+	mota_dvt: string
+}
+
+/donvitinh/:ma_dvt
+DELETE
+
+Deadline backend: thứ 6 (1/5)
+Deadline frontend: tối thứ 7 (2/5)
+
+Nói về function: xuất nhập excel
+
+

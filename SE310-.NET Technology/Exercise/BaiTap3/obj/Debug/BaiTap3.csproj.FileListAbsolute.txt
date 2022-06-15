@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Project1\BaiTap3\bin\Debug\BaiTap3.exe.config
+C:\Users\Admin\source\repos\Project1\BaiTap3\bin\Debug\BaiTap3.exe
+C:\Users\Admin\source\repos\Project1\BaiTap3\bin\Debug\BaiTap3.pdb
+C:\Users\Admin\source\repos\Project1\BaiTap3\obj\Debug\BaiTap3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Project1\BaiTap3\obj\Debug\BaiTap3.exe
+C:\Users\Admin\source\repos\Project1\BaiTap3\obj\Debug\BaiTap3.pdb
+C:\Users\Admin\source\repos\Project1\BaiTap3\obj\Debug\BaiTap3.csprojAssemblyReference.cache
