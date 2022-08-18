@@ -1,0 +1,16 @@
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\bin\Debug\BaiTap4.exe.config
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\bin\Debug\BaiTap4.exe
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\bin\Debug\BaiTap4.pdb
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\bin\Debug\EntityFramework.dll
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\bin\Debug\EntityFramework.xml
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\obj\Debug\Bai4.csprojAssemblyReference.cache
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\obj\Debug\BaiTap4.Form1.resources
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\obj\Debug\BaiTap4.Migrations.initial.resources
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\obj\Debug\BaiTap4.Properties.Resources.resources
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\obj\Debug\Bai4.csproj.CopyComplete
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\obj\Debug\BaiTap4.exe
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Môn học\.NET\BTTHTuan3_17520433\Bai4\obj\Debug\BaiTap4.pdb

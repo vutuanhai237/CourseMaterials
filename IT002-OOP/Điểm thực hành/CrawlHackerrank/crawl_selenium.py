@@ -4,11 +4,11 @@ from selenium import webdriver
 import chromedriver_binary  # Adds chromedriver binary to path
 from selenium.webdriver.common.by import By
 
-class_name = 'it002m22pmcl'
+class_name = 'it002m31'
 sub_class = class_name + '1'
-lab = 5
-contest_name = 'bai-tap-thuc-hanh-lab-' + str(lab) + '-it002-m22-pmcl-1'
-
+lab = 2
+contest_name = 'bai-tap-thuc-hanh-lab-' + str(lab) + '-it002-m31-1'
+print(contest_name)
 
 def read_score_sheet():
     sheet = pd.read_excel('../' + class_name + '/' + sub_class + '.xlsx')
@@ -23,7 +23,6 @@ def crawl_score():
     for i in range(1, num_pages + 1):
         url = 'https://www.hackerrank.com/contests/' + contest_name + '/leaderboard/' + str(i)
         driver = webdriver.Chrome()
-
         driver.get(url)
         table = driver.find_element(by=By.XPATH, value = '//*[@id="leaders"]')
 

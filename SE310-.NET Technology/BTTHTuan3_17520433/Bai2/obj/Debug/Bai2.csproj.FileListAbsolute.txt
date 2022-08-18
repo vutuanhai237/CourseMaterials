@@ -1,0 +1,10 @@
+C:\Users\haime\Downloads\Bai-2\Bai 2\bin\Debug\17520096_NguyenDuLich.exe.config
+C:\Users\haime\Downloads\Bai-2\Bai 2\bin\Debug\17520096_NguyenDuLich.exe
+C:\Users\haime\Downloads\Bai-2\Bai 2\bin\Debug\17520096_NguyenDuLich.pdb
+C:\Users\haime\Downloads\Bai-2\Bai 2\obj\Debug\Bai2.csprojAssemblyReference.cache
+C:\Users\haime\Downloads\Bai-2\Bai 2\obj\Debug\_17520096_NguyenDuLich.Form1.resources
+C:\Users\haime\Downloads\Bai-2\Bai 2\obj\Debug\_17520096_NguyenDuLich.Properties.Resources.resources
+C:\Users\haime\Downloads\Bai-2\Bai 2\obj\Debug\Bai2.csproj.GenerateResource.cache
+C:\Users\haime\Downloads\Bai-2\Bai 2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\haime\Downloads\Bai-2\Bai 2\obj\Debug\17520096_NguyenDuLich.exe
+C:\Users\haime\Downloads\Bai-2\Bai 2\obj\Debug\17520096_NguyenDuLich.pdb
