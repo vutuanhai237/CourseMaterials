@@ -23,6 +23,10 @@ Students who are in my class can get slides here!
 
 ### In semester 3 / 2021 - 2022:
 
+- [x] OOP
+
+### In semester 1 / 2022 - 2023:
 - [ ] OOP
+- [ ] SE
 
 Give me a star if you feel good when using it :)
