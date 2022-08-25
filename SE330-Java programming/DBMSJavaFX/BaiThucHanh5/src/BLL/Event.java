@@ -21,20 +21,21 @@ import java.sql.Statement;
  * @author Admin
  */
 public class Event {
+
     public static void insert() {
-        
+
     }
-    
+
     public static void delete() {
-        
+
     }
-    
+
     public static void add() {
-        
+
     }
-    
-   public static void connect() {
-         ds.clear();
+
+    public static void connect() {
+        ds.clear();
         PreparedStatement prs = null;
         ResultSet res = null;
         try {
@@ -46,7 +47,6 @@ public class Event {
 
             while (res.next()) {
                 System.out.print(res.getString("STT") + " " + res.getString("TenGV") + " ");
-
                 System.out.print(res.getString("MaLop") + " " + res.getString("TenMon") + " " + res.getString("SiSo"));
                 System.out.println(res.getString("NgayBD") + " " + res.getString("NgayKT") + res.getString("SoTiet"));
                 Static.ds.add(new Lop(res.getString("STT"), res.getString("TenGV"), res.getString("MaLop"), res.getString("TenMon"), res.getInt("SiSo"), res.getString("NgayBD"), res.getString("NgayKT"), res.getInt("SoTiet")));
@@ -54,26 +54,25 @@ public class Event {
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
-       
     }
-    
-  public static void connect2() {
+
+    public static void connect2() {
         dstk.clear();
         PreparedStatement prs = null;
         ResultSet res = null;
-        try {   
+        try {
             res = Query.getBang2();
             while (res.next()) {
-                String IsDatChuan = null;             
+                String IsDatChuan = null;
                 if (Integer.parseInt(res.getString("TongSoTiet")) >= 135) {
                     IsDatChuan = "Đạt chuẩn";
-                } else IsDatChuan = "Không đạt chuẩn";
+                } else {
+                    IsDatChuan = "Không đạt chuẩn";
+                }
                 Static.dstk.add(new ThongKe(res.getString("TenGV2"), res.getString("TongSoLop"), res.getString("TongSoTiet"), IsDatChuan));
-
             }
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
-       
     }
 }

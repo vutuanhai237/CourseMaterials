@@ -281,12 +281,12 @@ public class FormController implements Initializable {
         txt_sogiangvien.setText("Số giảng viên được phân công: " + BLL.Query.count_GV());
         txt_sldgd.setText("Số lớp đang giảng dạy: " + BLL.Query.getSoLopGD());
         txt_slkt.setText("Số lớp kết thúcy: " + BLL.Query.getSoLopKT());
-        
+
         txt_lcssin.setText("Lớp có sĩ số ít nhất: " + BLL.Query.getMinSiSo());
         txt_lcssnn.setText("Lớp có sĩ số nhiều nhất: " + BLL.Query.getMaxSiSo());
-        
+
         BLL.Event.connect2();
-        
+
         list2.getItems().clear();
         list2.getItems().addAll(Static.dstk);
     }
@@ -319,7 +319,6 @@ public class FormController implements Initializable {
             txt_TenMon.setText(list.getSelectionModel().getSelectedItem().getTenMon());
             txt_SoTiet.setText(String.valueOf(list.getSelectionModel().getSelectedItem().getSoTiet()));
 
-           
         });
     }
 

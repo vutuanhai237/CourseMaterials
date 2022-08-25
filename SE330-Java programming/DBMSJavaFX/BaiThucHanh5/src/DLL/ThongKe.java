@@ -19,8 +19,6 @@ public class ThongKe {
        
     }
 
-    //ten gv
-    
     public String getTenGV2() {
         return TenGV2.get();
     }
@@ -70,7 +68,4 @@ public class ThongKe {
     public StringProperty DatChuanProperty() {
         return DatChuan;
     }
-    
- 
-
 }

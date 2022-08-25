@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 
 // </editor-fold>
 
-public class Main_1 extends Application {  
+public class Main extends Application {  
     public static Stage primaryStage = null;
     @Override
     public void start(Stage primaryStage) throws Exception {
