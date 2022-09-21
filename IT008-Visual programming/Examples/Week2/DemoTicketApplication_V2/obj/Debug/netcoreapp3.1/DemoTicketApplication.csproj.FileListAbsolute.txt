@@ -1,0 +1,14 @@
+D:\DemoWeek2\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoTicketApplication.csproj.AssemblyReference.cache
+D:\DemoWeek2\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoTicketApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoWeek2\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoTicketApplication.AssemblyInfoInputs.cache
+D:\DemoWeek2\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoTicketApplication.AssemblyInfo.cs
+D:\DemoWeek2\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoTicketApplication.csproj.CoreCompileInputs.cache
+D:\DemoWeek2\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoTicketApplication.exe
+D:\DemoWeek2\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoTicketApplication.deps.json
+D:\DemoWeek2\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoTicketApplication.runtimeconfig.json
+D:\DemoWeek2\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoTicketApplication.runtimeconfig.dev.json
+D:\DemoWeek2\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoTicketApplication.dll
+D:\DemoWeek2\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoTicketApplication.pdb
+D:\DemoWeek2\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoTicketApplication.dll
+D:\DemoWeek2\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoTicketApplication.pdb
+D:\DemoWeek2\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoTicketApplication.genruntimeconfig.cache

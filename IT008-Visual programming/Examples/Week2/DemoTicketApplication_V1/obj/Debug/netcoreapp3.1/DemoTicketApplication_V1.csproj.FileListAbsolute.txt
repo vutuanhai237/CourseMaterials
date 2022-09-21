@@ -1,0 +1,13 @@
+D:\DemoWeek2\DemoTicketApplication_V1\bin\Debug\netcoreapp3.1\DemoTicketApplication_V1.exe
+D:\DemoWeek2\DemoTicketApplication_V1\bin\Debug\netcoreapp3.1\DemoTicketApplication_V1.deps.json
+D:\DemoWeek2\DemoTicketApplication_V1\bin\Debug\netcoreapp3.1\DemoTicketApplication_V1.runtimeconfig.json
+D:\DemoWeek2\DemoTicketApplication_V1\bin\Debug\netcoreapp3.1\DemoTicketApplication_V1.runtimeconfig.dev.json
+D:\DemoWeek2\DemoTicketApplication_V1\bin\Debug\netcoreapp3.1\DemoTicketApplication_V1.dll
+D:\DemoWeek2\DemoTicketApplication_V1\bin\Debug\netcoreapp3.1\DemoTicketApplication_V1.pdb
+D:\DemoWeek2\DemoTicketApplication_V1\obj\Debug\netcoreapp3.1\DemoTicketApplication_V1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoWeek2\DemoTicketApplication_V1\obj\Debug\netcoreapp3.1\DemoTicketApplication_V1.AssemblyInfoInputs.cache
+D:\DemoWeek2\DemoTicketApplication_V1\obj\Debug\netcoreapp3.1\DemoTicketApplication_V1.AssemblyInfo.cs
+D:\DemoWeek2\DemoTicketApplication_V1\obj\Debug\netcoreapp3.1\DemoTicketApplication_V1.csproj.CoreCompileInputs.cache
+D:\DemoWeek2\DemoTicketApplication_V1\obj\Debug\netcoreapp3.1\DemoTicketApplication_V1.dll
+D:\DemoWeek2\DemoTicketApplication_V1\obj\Debug\netcoreapp3.1\DemoTicketApplication_V1.pdb
+D:\DemoWeek2\DemoTicketApplication_V1\obj\Debug\netcoreapp3.1\DemoTicketApplication_V1.genruntimeconfig.cache
