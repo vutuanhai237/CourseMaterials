@@ -5,9 +5,9 @@ import chromedriver_binary  # Adds chromedriver binary to path
 from selenium.webdriver.common.by import By
 
 class_name = 'it002n11'
-sub_class = class_name + '1'
-lab = 2
-contest_name = 'bai-tap-thuc-hanh-lab-' + str(lab) + '-it002-n11-1'
+sub_class = class_name + '2'
+lab = 5
+contest_name = 'bai-tap-thuc-hanh-lab-' + str(lab) + '-it002-n11-2'
 print(contest_name)
 
 def read_score_sheet():
