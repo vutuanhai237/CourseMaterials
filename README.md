@@ -26,7 +26,10 @@ Students who are in my class can get slides here!
 - [x] OOP
 
 ### In semester 1 / 2022 - 2023:
-- [ ] OOP
-- [ ] SE
+- [x] OOP
+- [x] SE
+
+### In semester 2 / 2022 - 2023:
+- [x] OOP
 
 Give me a star if you feel good when using it :)
