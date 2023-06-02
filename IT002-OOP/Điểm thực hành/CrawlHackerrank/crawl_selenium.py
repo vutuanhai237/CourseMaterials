@@ -4,18 +4,14 @@ from selenium import webdriver
 import chromedriver_binary  # Adds chromedriver binary to path
 from selenium.webdriver.common.by import By
 
-class_name = 'it002n11'
-sub_class = class_name + '2'
-lab = 5
-contest_name = 'bai-tap-thuc-hanh-lab-' + str(lab) + '-it002-n11-2'
-print(contest_name)
 
-def read_score_sheet():
+
+def read_score_sheet(class_name, sub_class):
     sheet = pd.read_excel('../' + class_name + '/' + sub_class + '.xlsx')
     return sheet
 
-def crawl_score():
-    df = read_score_sheet()
+def crawl_score(class_name, join_class, sub_class, lab, contest_name):
+    df = read_score_sheet(class_name, sub_class)
     index = df.index
     num_rows = len(index)
     num_pages = int(num_rows / 10)
@@ -44,4 +40,13 @@ def crawl_score():
     driver.quit()
     df.to_excel('../' + class_name + '/' + sub_class + '.xlsx', index=False)
 
-crawl_score()
+class_name = 'it002n24'
+
+for class_name in ['it002n21cttn']:
+    for join_class in [1,2]:
+        for lab in [5]:
+            sub_class = class_name + str(join_class)
+            # contest_name = f'bai-tap-thuc-hanh-lab-{lab}-{class_name[:5]}-{class_name[5:]}-{join_class}'
+            contest_name = f'bai-tap-thuc-hanh-lab-{lab}-it002-n21-cttn-{join_class}'
+            print(contest_name)
+            crawl_score(class_name, join_class, sub_class, lab, contest_name)
