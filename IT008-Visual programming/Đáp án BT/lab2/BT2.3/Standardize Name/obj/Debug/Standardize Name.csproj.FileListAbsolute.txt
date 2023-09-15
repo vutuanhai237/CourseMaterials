@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\BT2.3\Standardize Name\bin\Debug\Standardize Name.exe
+C:\Users\Admin\source\repos\BT2.3\Standardize Name\bin\Debug\Standardize Name.pdb
+C:\Users\Admin\source\repos\BT2.3\Standardize Name\obj\Debug\Standardize Name.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BT2.3\Standardize Name\obj\Debug\Standardize Name.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BT2.3\Standardize Name\obj\Debug\Standardize Name.exe
+C:\Users\Admin\source\repos\BT2.3\Standardize Name\obj\Debug\Standardize Name.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\BT2.3\AboutFolder\bin\Debug\AboutFolder.exe
+C:\Users\Admin\source\repos\BT2.3\AboutFolder\bin\Debug\AboutFolder.pdb
+C:\Users\Admin\source\repos\BT2.3\AboutFolder\obj\Debug\AboutFolder.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BT2.3\AboutFolder\obj\Debug\AboutFolder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BT2.3\AboutFolder\obj\Debug\AboutFolder.exe
+C:\Users\Admin\source\repos\BT2.3\AboutFolder\obj\Debug\AboutFolder.pdb

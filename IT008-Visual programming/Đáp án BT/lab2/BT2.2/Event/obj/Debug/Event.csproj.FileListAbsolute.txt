@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\BT2.2\Event\bin\Debug\Event.exe
+C:\Users\Admin\source\repos\BT2.2\Event\bin\Debug\Event.pdb
+C:\Users\Admin\source\repos\BT2.2\Event\obj\Debug\Event.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BT2.2\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BT2.2\Event\obj\Debug\Event.exe
+C:\Users\Admin\source\repos\BT2.2\Event\obj\Debug\Event.pdb

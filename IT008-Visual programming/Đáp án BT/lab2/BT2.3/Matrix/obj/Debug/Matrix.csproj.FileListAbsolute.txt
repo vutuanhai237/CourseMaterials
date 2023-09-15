@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\BT2.3\Matrix\bin\Debug\Matrix.exe
+C:\Users\Admin\source\repos\BT2.3\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Admin\source\repos\BT2.3\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BT2.3\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BT2.3\Matrix\obj\Debug\Matrix.exe
+C:\Users\Admin\source\repos\BT2.3\Matrix\obj\Debug\Matrix.pdb

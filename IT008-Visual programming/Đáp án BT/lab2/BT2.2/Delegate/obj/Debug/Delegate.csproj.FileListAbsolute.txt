@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\BT2.2\Delegate\bin\Debug\Delegate.exe
+C:\Users\Admin\source\repos\BT2.2\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Admin\source\repos\BT2.2\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BT2.2\Delegate\obj\Debug\Delegate.exe
+C:\Users\Admin\source\repos\BT2.2\Delegate\obj\Debug\Delegate.pdb
+C:\Users\Admin\source\repos\BT2.2\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache

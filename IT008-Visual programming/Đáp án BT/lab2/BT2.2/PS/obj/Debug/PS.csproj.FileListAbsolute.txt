@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\BT2.2\PS\obj\Debug\PS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BT2.2\PS\bin\Debug\PS.exe
+C:\Users\Admin\source\repos\BT2.2\PS\bin\Debug\PS.pdb
+C:\Users\Admin\source\repos\BT2.2\PS\obj\Debug\PS.exe
+C:\Users\Admin\source\repos\BT2.2\PS\obj\Debug\PS.pdb
+C:\Users\Admin\source\repos\BT2.2\PS\obj\Debug\PS.csprojAssemblyReference.cache
