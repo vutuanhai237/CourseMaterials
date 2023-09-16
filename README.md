@@ -32,4 +32,9 @@ Students who are in my class can get slides here!
 ### In semester 2 / 2022 - 2023:
 - [x] OOP
 
+### In semester 1 / 2023 - 2024:
+- [ ] SE104 - Visual Programming (VP)
+- [ ] SE357 - Requirement Engineering (RE)
+- [ ] SE113 - Software Testing (ST)
+
 Give me a star if you feel good when using it :)
