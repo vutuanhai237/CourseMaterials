@@ -42,5 +42,5 @@ Cài đặt:
 *Class*: ```Mamal, Whale, Human.```
 
 ---
-$\copyright$ SE-UIT 2023
+&copy; SE-UIT 2023
 Materials for **Visual programming - IT008** 

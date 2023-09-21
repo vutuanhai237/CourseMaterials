@@ -76,5 +76,5 @@ Viết ứng dụng text editor đơn giản để hỗ trợ các chức năng 
 - Nếu đăng nhập thành công cửa sổ đăng nhập sẽ biến mất và cho phép người dùng làm việc với cửa số chính. Nếu đăng nhập sai yêu cầu đăng nhập lại. Nếu muốn tạo tài khoản thì cửa sổ đăng nhập biến mất và một cửa sổ đăng ký sẽ xuất hiện cho phép đăng ký (yêu cầu username, password, re-password). Sau khi đăng kí thành công cửa số đăng ký sẽ biến mất và cho phép người dùng làm việc với cửa số chính.
 
 ---
-$\copyright$ SE-UIT 2023
+&copy; SE-UIT 2023
 Materials for **Visual programming - IT008** 

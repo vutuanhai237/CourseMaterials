@@ -41,3 +41,7 @@ Gợi ý công nghệ sử dụng: Selenium.
 **Đồ án 7**: (GDI - Quantum computing) Xây dựng ứng dụng cho phép nhập vào danh sách 1-qubit quantum state và biểu diễn chúng trong Bloch sphere, người dùng có thể xoay, phóng to/thu nhỏ để nhìn được từ nhiều hướng khác nhau.
 
 **Đồ án 8**: (GDI - Quantum computing) Plot two 3d bar graphs (two dimensional) of the real and imaginary part of the density matrix.
+
+---
+&copy; SE-UIT 2023
+Materials for **Visual programming - IT008** 
