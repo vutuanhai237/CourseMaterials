@@ -14,7 +14,11 @@
 
 7. How is AI being proposed for knowledge acquisition and representation in requirements specifications? 
 
-8. Download FreeMind and use it to brainstorm a mind map for your smart home system. 
+8. Construct Requirements Linkage Traceability Matrix, Requirements Source Traceability Matrix, Requirements Stakeholder Traceability Matrix for your project in theory class.
+
+
+
+<!-- 8. Download FreeMind and use it to brainstorm a mind map for your smart home system. 
 
 9. Construct a FitNesse (or Cucumber) test table for the requirement described in the belows. 
 
@@ -28,7 +32,7 @@ metadata.
 - System shall accept one-button touch support for incorporating VHS
 tape into digital library.
 - System shall accept one-button touch support for incorporating DVD
-videos into digital library, where law and technology provide.
+videos into digital library, where law and technology provide. -->
 
 <!-- 10. Download and install the latest version of DOORS (NG at the time of this writing). Create a new project to manage the requirements for the course project you are currently completing. 
 
