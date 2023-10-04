@@ -13,3 +13,7 @@
 4. If your project passed all testing like this, that means you have finished this lab.
 
 ![](./github_action.png)
+
+---
+&copy; SE-UIT 2023
+Materials for **Software Testing - SE113** 

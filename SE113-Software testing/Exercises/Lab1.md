@@ -9,3 +9,6 @@
 2. Applying it to the current project.
 
 3. Make sure that the mutate score achieves a high value.
+---
+&copy; SE-UIT 2023
+Materials for **Software Testing - SE113** 
