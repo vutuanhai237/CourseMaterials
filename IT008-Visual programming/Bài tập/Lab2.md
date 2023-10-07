@@ -2,7 +2,7 @@
 
 ### Trên lớp
 
-**Bài tập 2.1**: Viết chương trình minh hoạ các sự kiện trong vòng đời của form. Gợi ý: *tìm hiểu các sự kiện Load, Activated, Shown, Deactivate, FormClosing, FormClosed.8*
+**Bài tập 2.1**: Viết chương trình minh hoạ các sự kiện trong vòng đời của form. Gợi ý: *tìm hiểu các sự kiện Load, Activated, Shown, Deactivate, FormClosing, FormClosed.*
 
 **Bài tập 2.2**: Viết chương trình minh hoạ sự kiện Paint trên Form. Mỗi khi sự kiện Paint xảy ra sẽ vẽ lại chuỗi “Paint Event” tại một vị trí x, y ngẫu nhiên trên Form. Gợi ý: *tìm hiểu về sự kiện Paint trên form và các lớp Random, Graphics.*
 
@@ -59,7 +59,7 @@ d. Toolbar
 
 Lưu ý: dữ liệu phải được lưu tại cơ sở dữ liệu, ví dụ: SQL Server, MySQL, SQLite.
 
-**Bài tập 2.7**. Bài 1: Viết chương trình hỗ trợ hẹn giờ thực hiện 1 trong 3 hành vi sau: shutdown hệ điều hành, restart hệ điều hành, log out người dùng hiện tại. (tất cả đều trên hệ điều hành windows). Nếu người dùng đã hẹn giờ nhưng chưa đến giờ hẹn sẽ cho phép người dùng hủy thao tác đã đặt hẹn với chức năng hủy.
+**Bài tập 2.7**. Viết chương trình hỗ trợ hẹn giờ thực hiện 1 trong 3 hành vi sau: shutdown hệ điều hành, restart hệ điều hành, log out người dùng hiện tại. (tất cả đều trên hệ điều hành windows). Nếu người dùng đã hẹn giờ nhưng chưa đến giờ hẹn sẽ cho phép người dùng hủy thao tác đã đặt hẹn với chức năng hủy.
 
 **Bài tập 2.8**: Nâng cấp từ **Bài tập 2.2** với các chức năng mới như sau:
 
