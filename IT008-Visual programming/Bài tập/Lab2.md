@@ -10,6 +10,8 @@
 
 ![Alt text](lab2-1.png)
 
+### Về nhà
+
 **Bài tập 2.4**: Viết chương trình minh hoạ sử dụng Menu và hộp thoại ColorDialog:
 
 - Khi chọn chức năng Color trong menu Format sẽ mở ra hộp thoại ColorDialog.
@@ -19,8 +21,6 @@
 ![Alt text](lab2-2.png)
 
 Gợi ý: *sử dụng các class MainMenu, MenuItem, ColorDialog.*
-
-### Về nhà
 
 Chọn ít nhất 1 trong số các bài sau.
 
