@@ -4,15 +4,9 @@
 
 **Bài tập 2.1**: Viết chương trình minh hoạ các sự kiện trong vòng đời của form. Gợi ý: *tìm hiểu các sự kiện Load, Activated, Shown, Deactivate, FormClosing, FormClosed.*
 
-**Bài tập 2.2**: Viết chương trình minh hoạ sự kiện Paint trên Form. Mỗi khi sự kiện Paint xảy ra sẽ vẽ lại chuỗi “Paint Event” tại một vị trí x, y ngẫu nhiên trên Form. Gợi ý: *tìm hiểu về sự kiện Paint trên form và các lớp Random, Graphics.*
-
 **Bài tập 2.3**:  Viết chương trình minh hoạ sự kiện Click trên Button. Khi nhấn vào nút Change Color sẽ tiến hành chuyển màu nền của Form sang một màu ngẫu nhiên.
 
-![Alt text](lab2-1.png)
-
-### Về nhà
-
-**Bài tập 2.4**: Viết chương trình minh hoạ sử dụng Menu và hộp thoại ColorDialog:
+**Bài tập 2.3**: Viết chương trình minh hoạ sử dụng Menu và hộp thoại ColorDialog:
 
 - Khi chọn chức năng Color trong menu Format sẽ mở ra hộp thoại ColorDialog.
 
@@ -21,6 +15,12 @@
 ![Alt text](lab2-2.png)
 
 Gợi ý: *sử dụng các class MainMenu, MenuItem, ColorDialog.*
+
+![Alt text](lab2-1.png)
+
+### Về nhà
+
+**Bài tập 2.4**: Viết chương trình minh hoạ sự kiện Paint trên Form. Mỗi khi sự kiện Paint xảy ra sẽ vẽ lại chuỗi “Paint Event” tại một vị trí x, y ngẫu nhiên trên Form. Gợi ý: *tìm hiểu về sự kiện Paint trên form và các lớp Random, Graphics.*
 
 Chọn ít nhất 1 trong số các bài sau.
 
@@ -61,7 +61,7 @@ Lưu ý: dữ liệu phải được lưu tại cơ sở dữ liệu, ví dụ: 
 
 **Bài tập 2.7**. Viết chương trình hỗ trợ hẹn giờ thực hiện 1 trong 3 hành vi sau: shutdown hệ điều hành, restart hệ điều hành, log out người dùng hiện tại. (tất cả đều trên hệ điều hành windows). Nếu người dùng đã hẹn giờ nhưng chưa đến giờ hẹn sẽ cho phép người dùng hủy thao tác đã đặt hẹn với chức năng hủy.
 
-**Bài tập 2.8**: Nâng cấp từ **Bài tập 2.2** với các chức năng mới như sau:
+**Bài tập 2.8**: Nâng cấp từ **Bài tập 2.4** với các chức năng mới như sau:
 
 - Các loại hình vẽ: Vẽ tự do, Hình chữ nhật, Hình eclip
 - Thao tác vẽ: Với các loại Hình chữ nhật, Hình eclip, cho phép hiệu chỉnh sửa (thay đổi kích thước, di chuyển) ngay sau khi vẽ
