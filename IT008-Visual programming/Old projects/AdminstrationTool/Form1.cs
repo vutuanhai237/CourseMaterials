@@ -18,13 +18,6 @@ namespace BT5._1
 
         }
         private int time_out;
-        private void btn_start_Click(object sender, EventArgs e)
-        {
-            btn_stop.Enabled = true;
-            time_out = Convert.ToInt32(cb_timeout.Text);
-            timer1.Start();
-        }
-
         private void btn_stop_Click(object sender, EventArgs e)
         {
             btn_stop.Enabled = false;
@@ -71,6 +64,16 @@ namespace BT5._1
            
         }
 
-   
+        private void btn_start_Click(object sender, EventArgs e)
+        {
+            btn_stop.Enabled = true;
+            time_out = Convert.ToInt32(cb_timeout.Text);
+            timer1.Start();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.button1.Text = "abc";
+        }
     }
 }

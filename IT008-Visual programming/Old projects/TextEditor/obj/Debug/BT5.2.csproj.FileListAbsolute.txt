@@ -8,3 +8,14 @@ C:\Users\Admin\source\repos\BT5\BT5.2\obj\Debug\BT5.2.csproj.CoreCompileInputs.c
 C:\Users\Admin\source\repos\BT5\BT5.2\obj\Debug\BT5.2.exe
 C:\Users\Admin\source\repos\BT5\BT5.2\obj\Debug\BT5.2.pdb
 C:\Users\Admin\source\repos\BT5\BT5.2\obj\Debug\BT5._2.Login.resources
+Z:\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\TextEditor\bin\Debug\BT5.2.exe.config
+Z:\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\TextEditor\bin\Debug\BT5.2.exe
+Z:\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\TextEditor\bin\Debug\BT5.2.pdb
+Z:\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\TextEditor\obj\Debug\BT5.2.csproj.AssemblyReference.cache
+Z:\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\TextEditor\obj\Debug\BT5._2.Form1.resources
+Z:\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\TextEditor\obj\Debug\BT5._2.Login.resources
+Z:\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\TextEditor\obj\Debug\BT5._2.Properties.Resources.resources
+Z:\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\TextEditor\obj\Debug\BT5.2.csproj.GenerateResource.cache
+Z:\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\TextEditor\obj\Debug\BT5.2.csproj.CoreCompileInputs.cache
+Z:\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\TextEditor\obj\Debug\BT5.2.exe
+Z:\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\TextEditor\obj\Debug\BT5.2.pdb
