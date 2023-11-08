@@ -1,4 +1,4 @@
-# Đồ án Lab 3
+# Đồ án lớp thực hành
 
 Những nhóm chọn đồ án ngoài danh sách gợi ý vui lòng đề xuất [tại đây](https://github.com/vutuanhai237/CourseMaterials/discussions/1) hoặc làm đồ án trong danh sách gợi ý (các nhóm các thể chọn trùng). Lưu ý không giới hạn về công nghệ sử dụng và các chức năng tự đề xuất.
 
