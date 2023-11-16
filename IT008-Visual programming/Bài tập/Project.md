@@ -1,4 +1,4 @@
-# Đồ án Lab 3
+# Đồ án lớp thực hành
 
 Những nhóm chọn đồ án ngoài danh sách gợi ý vui lòng đề xuất [tại đây](https://github.com/vutuanhai237/CourseMaterials/discussions/1) hoặc làm đồ án trong danh sách gợi ý (các nhóm các thể chọn trùng). Lưu ý không giới hạn về công nghệ sử dụng và các chức năng tự đề xuất.
 
@@ -28,7 +28,7 @@ Gợi ý công nghệ sử dụng: Selenium.
 
 **Đồ án 4**: (Malware) Xây dựng ứng dụng Keylogger, có các tính năng sau:
 
-- Lưu lại toàn bộ các sự kiện bàn phím, lưu ý tổ chức lưu theo định dạng dễ đọc, ví dụ: có để mốc thời gian mỗi 1 phút. File lưu cũng được mã hoá bằng mã bất đối xứng (RSA-1024 hoặc ECC) để người dùng không nhận ra mình bị keylogger.
+- Lưu lại toàn bộ các sự kiện bàn phím, lưu ý tổ chức lưu theo định dạng dễ đọc, ví dụ: có để mốc thời gian mỗi 1 phút. File lưu cũng được mã hoá bằng mã đối xứng (AES-128, AES-256) để người dùng không nhận ra mình bị keylogger.
 
 - Ẩn các icon, notification, ...
 
